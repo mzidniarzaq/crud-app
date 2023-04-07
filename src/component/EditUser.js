@@ -49,7 +49,7 @@ const EditUser = () => {
           <div className="control"  />
           <input type="text"
             className="input"
-            placeholder="Masukan Nama"
+            placeholder="Masukan Nama lengkap"
             value={name}
             onChange={(e) => setName(e.target.value)}
           ></input>
