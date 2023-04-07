@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "phone": "345345"
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "username": "Antonette",
+      "email": "Shanna@melissa.tv",
+      "phone": "564522"
+    },
+    {
+      "name": "Moch Zidni Arzaq",
+      "username": "mzidniarzaq",
+      "email": "m.zidniarzaq@gmail.com",
+      "phone": "082325354768",
+      "id": 4
+    },
+    {
+      "name": "m khoirul fatikin",
+      "username": "ain123",
+      "email": "aqin123@gmail.com",
+      "phone": "089667386281",
+      "id": 5
+    },
+    {
+      "name": "rmuhammad riyan",
+      "username": "riyanid",
+      "email": "riyan@gmail.com",
+      "phone": "978908663333",
+      "id": 6
+    }
+  ]
+}
